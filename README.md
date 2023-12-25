@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm passionate about coding and software development, I enjoy the ultimate portability of a tech career, working for any company worldwide.
 ### My Stack
-<div class='icon'><img src="https://github.com/Abigael-Wasabi/Abigael-Wasabi/assets/94919325/8d2c76fb-bd16-4eca-ad1d-db6122d91a23" alt="HTML" style="width: 80px; height: 50px;"/></div>
-<div class='icon'><img src="https://github.com/Abigael-Wasabi/Abigael-Wasabi/assets/94919325/df210352-bf91-47d6-80df-275708160532" alt="CSS" style="width: 80px; height: 80px;"/></div>
+<div class='icon'><img src="https://github.com/Abigael-Wasabi/Abigael-Wasabi/assets/94919325/8d2c76fb-bd16-4eca-ad1d-db6122d91a23" alt="HTML" style="width: 80px; height: 80px;"/></div>
+<div class='icon'><img src="https://github.com/Abigael-Wasabi/Abigael-Wasabi/assets/94919325/df210352-bf91-47d6-80df-275708160532" alt="CSS" style="width: 80px; height: 100px;"/></div>
 <div class='icon'><img src="https://github.com/Abigael-Wasabi/Abigael-Wasabi/assets/94919325/16055b01-f33d-4e6d-b050-3a0bc00312a4" alt="Bootstrap" style="width: 70px; height: 50px;"/></div>
 <div class='icon'><img src="https://github.com/Abigael-Wasabi/Abigael-Wasabi/assets/94919325/bd4094ec-6688-46ca-950f-b295960dce48" alt="JavaScript" style="width: 50px; height: 50px; margin-right: 10px;"/></div>
 <div class='icon'><img src="https://github.com/Abigael-Wasabi/Abigael-Wasabi/assets/94919325/9f5696ba-b68c-4577-a6a7-b80278a6ed94" alt="React" style="width: 50px; height: 50px; margin-right: 10px;"/></div>
