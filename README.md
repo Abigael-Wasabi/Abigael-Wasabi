@@ -1,7 +1,15 @@
 ### Hi there 👋
 I'm passionate about coding and software development, I enjoy the ultimate portability of a tech career, working for any company worldwide.
 ### My Stack
-![html](https://github.com/Abigael-Wasabi/Abigael-Wasabi/assets/94919325/3443c467-41c8-439d-a997-6519b8262add)
+![html](https://github.com/Abigael-Wasabi/Abigael-Wasabi/assets/94919325/8d2c76fb-bd16-4eca-ad1d-db6122d91a23)
+![CSS-Logo](https://github.com/Abigael-Wasabi/Abigael-Wasabi/assets/94919325/df210352-bf91-47d6-80df-275708160532)
+![bootstrap-logo](https://github.com/Abigael-Wasabi/Abigael-Wasabi/assets/94919325/16055b01-f33d-4e6d-b050-3a0bc00312a4)
+![JavaScript-logo](https://github.com/Abigael-Wasabi/Abigael-Wasabi/assets/94919325/bd4094ec-6688-46ca-950f-b295960dce48)
+![react](https://github.com/Abigael-Wasabi/Abigael-Wasabi/assets/94919325/9f5696ba-b68c-4577-a6a7-b80278a6ed94)
+![Mysql_logo](https://github.com/Abigael-Wasabi/Abigael-Wasabi/assets/94919325/52374699-4dd4-4ebe-8c31-dc799f37e2ad)
+![Node js_logo](https://github.com/Abigael-Wasabi/Abigael-Wasabi/assets/94919325/70de73a2-53a3-4f41-b149-6f0f92b9212d)
+![MongoDB_Logo svg](https://github.com/Abigael-Wasabi/Abigael-Wasabi/assets/94919325/a5e2ff68-c847-47cb-8501-d1e6f8d2425c)
+![PHP-logo svg](https://github.com/Abigael-Wasabi/Abigael-Wasabi/assets/94919325/2169db22-5d44-4fb2-b6a1-8275e4e78809)
 
 <!--
 **Abigael-Wasabi/Abigael-Wasabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
