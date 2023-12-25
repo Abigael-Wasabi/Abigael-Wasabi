@@ -1,4 +1,6 @@
 ### Hi there 👋
+Passionate about coding and software development, I enjoy the ultimate portability of a tech career, working for any company worldwide.
+
 
 <!--
 **Abigael-Wasabi/Abigael-Wasabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
