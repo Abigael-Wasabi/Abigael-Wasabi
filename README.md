@@ -1,5 +1,6 @@
 ### Hi there 👋
-Passionate about coding and software development, I enjoy the ultimate portability of a tech career, working for any company worldwide.
+I'm passionate about coding, finding immense joy in the portability and versatility of a tech-driven career. Through software development, I thrive on crafting solutions that directly impact and benefit humanity. The dynamic nature of the field fuels my love for it, as
+I am constantly motivated to explore and unlock the vast potential of my career.
 
 
 
