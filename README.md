@@ -2,7 +2,7 @@
 Passionate about coding, finding immense joy in the portability and versatility of a tech-driven career. Through software development, I thrive on crafting solutions that directly impact and benefit humanity. The dynamic nature of the field fuels my love for it, as
 I am constantly motivated to explore and unlock the vast potential of my career.
 
-
+my portfolio- https://leafy-twilight-33a3e5.netlify.app/
 
 
 
